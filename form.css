@@ -1,0 +1,62 @@
+.header{
+    text-align: center;
+    margin-top: -60px;
+    line-height: 1px;
+}
+img{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.table{
+    border: 1px;
+    border-style: solid;
+}
+.line3{
+    text-align: center;
+}
+.photo{
+    height: 120px;
+    width: 100px;
+    border: 1px;
+    border-style:solid;
+    margin-left: 750px;
+    margin-top: -70px;
+}
+.personal{
+    line-height: 1px;
+    margin-left: 13px;
+}
+input{
+    border-top: 0cap;
+    border-left: 0cap;
+    border-right: 0cap;
+    width: 800px;
+    margin-left: px;
+}
+label{
+    margin-left: 13px;
+}
+.body{
+    height: 100%;
+    width: 70%;
+    margin-left: 15%;
+}
+.note{
+    margin-left: 50px;
+}
+.sign{
+    margin-left: 300px;
+}
+.signature{
+    margin-left: 850px;
+}
+.last{
+    text-align: center;
+}
+.table2{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 190px;
+    margin-bottom: 30px;
+}
